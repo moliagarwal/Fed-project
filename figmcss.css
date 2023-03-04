@@ -1,0 +1,90 @@
+
+      body {
+        background-color: black;
+        color: white;
+      }
+      h1 {
+        
+        width: 173px;
+        height: 62px;
+        font-family: "Graphik";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 52px;
+        line-height: 62px;
+        letter-spacing: 0.2px;
+        color: #ffffff;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        
+      
+      }
+      
+      p {
+        width: 571px;
+        height: 60px;
+        font-family: "Graphik";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 0.2px;
+        color: #ffffff;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+      
+        
+      }
+      p1 {
+        width: 79px;
+        height: 25px;
+        font-family: 'Graphik';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 25px;
+        letter-spacing: 0.2px;
+        color: #FFFFFF; 
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        border: 2px solid white;
+        padding: 10px;
+        padding-top: 10px;
+        padding-right: 40px;
+        padding-bottom: 10px;
+        padding-left: 40px;
+
+      }
+      .img1 {
+        width: 225px;
+        height: 285px;
+        border-radius: 20px;
+        background: url(.jpg);
+        flex: none;
+        order: 0;
+        margin: 10px;
+      }
+      .img2 {
+        width: 395px;
+        height: 285px;
+        border-radius: 20px;
+        background: url(.jpg);
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        margin: 10px;
+      }
+      .img3 {
+        width: 401px;
+        height: 285px;
+        border-radius: 20px;
+        background: url(.jpg);
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        margin: 10px;
+      }
+    
